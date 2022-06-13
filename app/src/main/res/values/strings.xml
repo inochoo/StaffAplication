@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StaffAplication</string>
+    <string name="check_info">Vui lòng điền vào các ô bắt buộc</string>
+    <string name="check_password">password phải có ít nhất 6 kí tự, phải bao gồm cả viết hoa, số và 1 kí tự đặng biệt</string>
+</resources>
